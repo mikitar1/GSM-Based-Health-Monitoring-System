@@ -1,0 +1,6 @@
+1. Copy all libraries from library folder to protues library found in path like C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY
+2. Open Simulation folder and open "HealthProtues" file
+3. After protues simulation is opend  right click on arduino from simulation then choose for option "Edit Properties" then look for program file and upload "HealthArduino.ino.hex" from Arduino folder 
+4. Also right click on heartbeat sensor and choose for option for "Edit Properties" then program file then upload "HeartBeatSensorTEP2.HEX" file from Library folder  
+5. Again do the same step for GSM then add "GSMLibraryTEP.hex" file from libray folder 
+6. run the simulation 
